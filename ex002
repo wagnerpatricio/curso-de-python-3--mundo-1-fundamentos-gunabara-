@@ -1,0 +1,4 @@
+nome= input('digite o seu nome=')
+print('olá,', nome, 'é um prazer conhece-lô')
+ou
+print('olá,é um prazer te conhecer, {}!'.format(nome))

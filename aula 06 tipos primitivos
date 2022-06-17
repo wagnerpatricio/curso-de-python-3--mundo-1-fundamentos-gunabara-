@@ -1,0 +1,13 @@
+#some dois numeros e depois print o resultado
+
+n1=int(input('digite seu numero:'))
+n2=int(input('digite seu numero:'))
+s=n1+n2
+print('a soma de n1+n2 é',s)
+
+
+#existem 4 tipos primitivos basicos no python:
+int(numeros inteiros)
+float(reais ou ponto flutuante)ex:7.5
+bool(boleanos)ex:True or False
+STR(valores caracteres ou strings)ex: 'olá' / '7.5'

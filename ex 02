@@ -1,0 +1,4 @@
+#crie um programa que leia o nome de uma pessoa e depois dê boas vindas.
+
+nome=input('digite seu nome:')
+print('é um prazer te conhecer{}'.format(nome))

@@ -1,0 +1,6 @@
+#crie um codigo que diga as caraceteristicas de algo digitado.
+
+n=input('digite algo: ')
+print('o tipo primitivo de {} é'.format(n),type(n))
+print('o {} é numerico?'.format(n),n.isnumeric())
+print('o {} é alfanumerico?'.format(n),n.isalnum())

@@ -1,0 +1,8 @@
+#Crie um programa que mostre as caracteristica de algo que você digite, tais como:se é alfanúmerico? se é numerico? e etc.
+
+
+n=(input('digite seu numero:'))
+print('é um alfanúmerico?',n.isalpha())
+print('é numerico?',n.isnumeric())
+print('caso seja alfa numerico,a letra é maiúscula?',n.isupper())
+print('caso seja alfa numerico,a letra é minuscula?',n.islower())
